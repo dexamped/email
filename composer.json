@@ -1,5 +1,5 @@
 {
-    "name": "shadowhand/email",
+    "name": "dexamped/email",
     "description": "Email helper for Kohana, uses Swiftmailer",
     "keywords": ["kohana", "email", "helper", "module", "library", "swiftmailer"],
     "homepage": "http://github.com/shadowhand/email",
